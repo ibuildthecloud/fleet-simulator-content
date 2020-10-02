@@ -3,6 +3,6 @@ apiVersion: fleet.cattle.io/v1alpha1
 metadata:
   name: test-content
 spec:
-  repo: http://github.com/ibuildthecloud/fleet-simulator-content
+  repo: https://github.com/ibuildthecloud/fleet-simulator-content
   paths:
   - /content
